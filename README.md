@@ -1,45 +1,39 @@
-# Game Sales Dashboard
+# 🎮 Game Sales Dashboard  
 
-Interactive video game sales dashboard built with HTML, CSS, and JavaScript (Plotly.js).
+An interactive **video game sales dashboard** built with **HTML, CSS, and JavaScript (Plotly.js)** — visualizing global game sales by genre.  
+Created by **AskinsArt (Dominic Hawes)** as part of an ongoing journey to blend data visualization with design.  
 
----
-
-## 🎮 Interactive Video Game Sales Dashboard
-An interactive dashboard visualizing global video game sales by genre.  
-Built with HTML, CSS, JavaScript, and Plotly.js — fully responsive and mobile-friendly.
-
-<p align="center">
-  <img src="download.png" alt="Game Sales Dashboard Screenshot" width="600">
-</p>
+<p align="center"> <img src="download.png" alt="Game Sales Dashboard Screenshot" width="600"> </p>
 
 ---
 
-## 🔗 Live Demo
-View the live project here: [GitHub Pages Demo](https://askinsart.github.io/game-sales-dashboard/)
+## 🌐 Live Demo  
+🔗 **View here:** [https://askinsart.github.io/Game-Sales-Dashboard/](https://askinsart.github.io/Game-Sales-Dashboard/)
 
 ---
 
-## 📊 Features
-- **Interactive Pie & Bar Charts** – switch between chart types with one click.  
-- **Real Dataset** – based on publicly available game sales data.  
-- **Smooth Visual Effects** – fade-in animations and gradient background.  
-- **Responsive Design** – looks great on desktop, tablet, and mobile.  
-- **Hover Tooltips** – explore detailed data values by hovering.
+## 📊 Features  
+- 🎲 **Interactive Charts** — switch between pie and bar views instantly.  
+- 📈 **Real Dataset** — visualizes global video game sales by genre.  
+- 🎨 **Smooth Visual Design** — animated gradient background and fade-in UI.  
+- 📱 **Responsive Layout** — works beautifully across desktop and mobile.  
+- 💡 **Hover Tooltips** — explore detailed data values dynamically.  
 
 ---
 
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3 (Responsive Flexbox Layout)  
-- JavaScript (Vanilla JS + Plotly.js)  
+## 🛠️ Built With  
+- **HTML5**  
+- **CSS3 (Flexbox Responsive Layout)**  
+- **JavaScript (Plotly.js)**  
 
 ---
 
-## 🚀 How to Run Locally
-Clone the repository:  
-```bash
-git clone https://github.com/AskinsArt/game-sales-dashboard.git
-```
+## ✍️ Creator’s Note  
+This dashboard is part of my exploration into **interactive data storytelling** — combining analytics and design.  
+It’s one of my first published projects and inspired me to continue building creative, interactive web experiences.  
 
-## 📧 Contact
-Created by **Dominic Hawes** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/dominic-hawes/).
+---
+
+## 🧠 Connect  
+👨‍🎨 Created by **AskinsArt (Dominic Hawes)**  
+📎 [LinkedIn](https://www.linkedin.com/in/dominic-hawes/) | [Instagram](https://www.instagram.com/askins.art/)
